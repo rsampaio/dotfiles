@@ -13,7 +13,7 @@ require("vicious")
 
 -- {{{ Variable definitions
 -- Themes define colours, icons, and wallpapers
-beautiful.init("/usr/share/awesome/themes/blind-alien/theme3.lua")
+beautiful.init("~/.themes/blind-alien/theme3.lua")
 
 -- This is used later as the default terminal and editor to run.
 terminal = "urxvtc"
